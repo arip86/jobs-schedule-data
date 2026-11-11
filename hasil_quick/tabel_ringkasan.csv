@@ -1,0 +1,5 @@
+metode,best_makespan,mean_makespan,stdev_makespan,success_rate,rpd_mean_pct,rpd_best_pct,eval_hingga_optimum_mean,run_mencapai_optimum,run_gagal,waktu_s_mean,memori_kib_mean,conv_500,conv_1000,conv_2000,conv_3000
+GA,56,57.500000,2.121320,0.000000,4.545455,1.818182,,0,2,0.007456,38.710000,,,,
+SA,58,58.000000,0.000000,0.000000,5.454545,5.454545,,0,2,0.005510,10.630000,,,,
+TS,57,58.500000,2.121320,0.000000,6.363636,3.636364,,0,2,0.005435,23.485000,,,,
+acak,56,57.000000,1.414214,0.000000,3.636364,1.818182,,0,2,0.006534,9.960000,,,,

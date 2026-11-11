@@ -1,0 +1,9 @@
+metode,seed,best_makespan,eval_hingga_optimum,valid_best,waktu_s,memori_kib
+GA,2026,56,,True,0.007437,41.04
+GA,2027,59,,True,0.007123,36.38
+SA,2126,58,,True,0.005320,10.77
+SA,2127,58,,True,0.005264,10.49
+TS,2226,57,,True,0.005332,23.54
+TS,2227,60,,True,0.005215,23.43
+acak,2326,58,,True,0.006543,9.96
+acak,2327,56,,True,0.006438,9.96
